@@ -1,0 +1,12 @@
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+}
+
+ol {
+  display: list-item;
+  align-items: center;
+  justify-content: center;
+}
